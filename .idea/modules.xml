@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/demo-spring-cloud.iml" filepath="$PROJECT_DIR$/.idea/demo-spring-cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-spring-cloud-config/demo-spring-cloud-config.iml" filepath="$PROJECT_DIR$/demo-spring-cloud-config/demo-spring-cloud-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-spring-cloud-dependencies/demo-spring-cloud-dependencies.iml" filepath="$PROJECT_DIR$/demo-spring-cloud-dependencies/demo-spring-cloud-dependencies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-spring-cloud-eureka/demo-spring-cloud-eureka.iml" filepath="$PROJECT_DIR$/demo-spring-cloud-eureka/demo-spring-cloud-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-spring-cloud-service-admin/demo-spring-cloud-service-admin.iml" filepath="$PROJECT_DIR$/demo-spring-cloud-service-admin/demo-spring-cloud-service-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-spring-cloud-web-admin-feign/demo-spring-cloud-web-admin-feign.iml" filepath="$PROJECT_DIR$/demo-spring-cloud-web-admin-feign/demo-spring-cloud-web-admin-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-spring-cloud-web-admin-ribbon/demo-spring-cloud-web-admin-ribbon.iml" filepath="$PROJECT_DIR$/demo-spring-cloud-web-admin-ribbon/demo-spring-cloud-web-admin-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-spring-cloud-zipkin/demo-spring-cloud-zipkin.iml" filepath="$PROJECT_DIR$/demo-spring-cloud-zipkin/demo-spring-cloud-zipkin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-spring-cloud-zuul/demo-spring-cloud-zuul.iml" filepath="$PROJECT_DIR$/demo-spring-cloud-zuul/demo-spring-cloud-zuul.iml" />
+    </modules>
+  </component>
+</project>

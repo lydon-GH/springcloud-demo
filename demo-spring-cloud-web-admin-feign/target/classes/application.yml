@@ -1,0 +1,27 @@
+spring:
+  cloud:
+    config:
+      uri: http://localhost:8888
+      name: feign-application
+      label: master
+      profile: dev
+
+#application:
+#    name: demo-spring-cloud-web-admin-feign
+#  thymeleaf:
+#    cache: false
+#    mode: LEGACYHTML5
+#    encoding: UTF-8
+#    servlet:
+#      content-type: text/html
+#
+#server:
+#  port: 8765
+#
+#feign:
+#  hystrix:
+#    enable: true
+#eureka:
+#  client:
+#    service-url:
+#      defaultZone: http://localhost:8761/eureka/

@@ -1,0 +1,22 @@
+spring:
+  application:
+    name: demo-spring-cloud-config
+
+  cloud:
+    config:
+      label: master
+      server:
+        git:
+          uri: https://github.com/lydon-GH/spring-cloud-config
+          search-paths: respo
+          username: 447172979@qq.com
+          password: 82791965liu
+
+
+server:
+  port: 8888
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
